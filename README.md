@@ -10,7 +10,11 @@ game_center.py: This script handles the main menu, user input validation, and ga
 Clear Menu: User-friendly menu using print statements:
 
 Welcome to Aura's game center!
+
 1.-Tic Tac Toe
+
 2.-BalckJack
+
 3.- Exit
+
 What do you want to play? 
