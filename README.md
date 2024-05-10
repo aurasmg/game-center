@@ -13,12 +13,5 @@ Welcome to Aura's game center!
 1.-Tic Tac Toe
 2.-BalckJack
 3.- Exit
-What do you want to play? 5
-
-
-6
-4
-3
-2
-1
+What do you want to play? 
 
